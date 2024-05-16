@@ -1,0 +1,14 @@
+id | employeeName | passwrd | hoursWorked | isSup
+0 John 2222 64 1
+1 Jane 1234 64 1
+2 Mike 6574 88 0
+3 Nora 6155 152 0
+4 Brittany 2968 16 0
+5 Patrick 2545 1006 0
+6 Agnes 7564 621 0
+7 Mel 2189 268 28 0
+8 Stanford 4984 95 0
+9 Max 3218 77 0
+10 Chong 1896 675 0
+11 Willis 5646 49 0
+12 Wad 2586 654 0
